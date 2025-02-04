@@ -1,4 +1,4 @@
-# Data-Analysis-and-Modeling-Tasks
+# Advanced Fraud Detection and Predictive Analytics System
 
 This repository contains solutions to three analytical problems using fictional datasets. Below are the details of each task:  
 
